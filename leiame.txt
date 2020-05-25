@@ -1,0 +1,1 @@
+Programa que avalia o yahoo finances e plota o grafico
